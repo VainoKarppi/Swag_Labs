@@ -4,7 +4,7 @@ Suite Setup    Open Browser To Example Site
 Suite Teardown    Close Browser
 
 *** Variables ***
-${URL}    file:///C:/Users/jouni/Documents/SoftTest/Swag/test/swag_labs%20(1).html
+${URL}    https://juv1ska.github.io/Swag_Labs/swag_labs.html
 ${BROWSER}    Edge
 ${USERNAME}    standard_user
 ${PASSWORD}    secret_sauce
