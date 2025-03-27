@@ -4,7 +4,7 @@ Suite Setup    Open Browser To Example Site
 Suite Teardown    Close Browser
 
 *** Variables ***
-${URL}    https://juv1ska.github.io/Swag_Labs/swag_labs.html
+${URL}    https://vainokarppi.github.io/Swag_Labs/swag_labs.html
 ${BROWSER}    Chrome
 ${USERNAME}    standard_user
 ${PASSWORD}    secret_sauce
